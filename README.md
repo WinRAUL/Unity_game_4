@@ -1,4 +1,4 @@
-#Steps to open the project
+##Steps to open the project
 1.Download & Install "unity Hub" + Unity Game Engine(Unity 2020.3.2f1)
 2.Open "Unity Hub.exe".
 3.Click "Add project" in unity hub and select the project folder.
